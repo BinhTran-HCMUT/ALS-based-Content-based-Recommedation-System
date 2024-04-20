@@ -1,1 +1,1 @@
-# ALS-based-Content-based-Recommedation-System
+# ALS-based and Content-based Recommendation System
