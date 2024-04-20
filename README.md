@@ -1,4 +1,4 @@
-# ALS-based and Content-based Recommendation System
+# ALS-based and Content-based recommender system
 
 ## Content-based recommender system based on MIND dataset
 
